@@ -1,4 +1,4 @@
-
+print('This is not the first commit on local.')
 
 print('dev_feature branch first local commit.')
 
