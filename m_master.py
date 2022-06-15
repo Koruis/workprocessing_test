@@ -6,4 +6,4 @@ print('Now change first commit changes.')
 
 
 print('conf_ established.')
-print('conf_test established add1.')
+print('conf_test established wow add1.')
