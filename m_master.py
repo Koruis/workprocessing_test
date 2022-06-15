@@ -8,6 +8,4 @@ print('conf_test established wow add1.')
 
 
 print('conf_ established.')
-print('aaaaaaaaaaaaaaa')
 print('conf_test established add1.')
-print('wwwwwwwwwwww')
