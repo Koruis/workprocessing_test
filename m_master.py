@@ -8,4 +8,8 @@ print('conf_test established wow add1.')
 
 
 print('conf_ established.')
-print('conf_test established add1.')
+a = {
+    "aaa": 1,
+    "bbbb": 2,
+    "cccc": 3
+}
